@@ -1,1 +1,1 @@
-# LearJS
+# LearnJS
